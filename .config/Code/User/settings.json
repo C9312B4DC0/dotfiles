@@ -1,0 +1,9 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "git.enableSmartCommit": true,
+    "[shellscript]": {
+        "editor.defaultFormatter": "mads-hartmann.bash-ide-vscode"
+    },
+    "git.autofetch": true
+}
