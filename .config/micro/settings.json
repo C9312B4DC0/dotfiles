@@ -1,1 +1,7 @@
-{}
+{
+    "autosave": 60,
+    "autosu": true,
+    "hlsearch": true,
+    "softwrap": true,
+    "wordwrap": true
+}
